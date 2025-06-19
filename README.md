@@ -1,3 +1,5 @@
+<h1> Sangam Jha </h1>
+
 <div align="center">
 <!-- Title: -->
   <a href="https://github.com/TheAlgorithms/">
